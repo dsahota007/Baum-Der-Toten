@@ -13,7 +13,6 @@ personalized strategies for survival. The project highlights a fully custom weap
 future features like additional maps, multiplayer support, and new zombie types. Developed with passion, 2D Zombie Shooter 
 is a testament to creating a dynamic and engaging survival experience in Pygame.
 
-
-
+Availble on itch.io (https://ds0o7.itch.io/baum-der-toten)
 
 
