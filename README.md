@@ -1,4 +1,4 @@
-**Baum Der Toten (Created In Pygame Using Python)**
+#Baum Der Toten (Created In Pygame Using Python)
 
 2D Zombie Shooter is a wave-based survival game inspired by Call of Duty Zombies, built with over 3,000 lines of Python code 
 using Pygame. The game challenges players to survive endless waves of zombies by utilizing an arsenal of over 50 unique weapons, 
@@ -13,6 +13,6 @@ personalized strategies for survival. The project highlights a fully custom weap
 future features like additional maps, multiplayer support, and new zombie types. Developed with passion, 2D Zombie Shooter 
 is a testament to creating a dynamic and engaging survival experience in Pygame.
 
-Availble on itch.io (https://ds0o7.itch.io/baum-der-toten)
+Availble on itch.io 
 
 
